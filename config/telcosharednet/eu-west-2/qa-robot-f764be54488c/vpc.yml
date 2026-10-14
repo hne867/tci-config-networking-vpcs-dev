@@ -1,0 +1,8 @@
+vrf:
+  name: qa-robot-f764be54488c
+routing:
+  ipam:
+    primary_cidr: 10.247.100.0/24
+    additional_cidrs: []
+  transit_gateway:
+    id: tgw-0e66562d9a20c7dc6
